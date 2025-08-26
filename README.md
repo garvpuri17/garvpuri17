@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Garv Puri 👋  
+🎓 Computer Engineering @ Texas A&M (Class of 2027)  
+🔐 Aspiring Cybersecurity & Cloud Solutions Architect  
+💻 Passionate about AI-driven security, cloud platforms, and building scalable systems.  
 
-<!--
-**garvpuri17/garvpuri17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔨 Projects
+- 🚧 **[SecureCloudAI](https://github.com/garvpuri17/SecureCloudAI)** – Cloud-native threat detection platform (FastAPI, Docker, MongoDB, Streamlit)  
+- 🚧 **[LoginSentinel](https://github.com/garvpuri17/LoginSentinel)** – Risk-based authentication microservice (FastAPI, MongoDB, IsolationForest)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(More projects coming soon!)*  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/garvpuri)  
+- Email: purigarv@tamu.edu
