@@ -1,6 +1,6 @@
 # Hi, I'm Garv Puri 👋  
 🎓 Computer Engineering @ Texas A&M (Class of 2027)  
-🔐 Aspiring Cybersecurity & Cloud Solutions Architect  
+🔐 Aspiring Software Engineer | AI/ML Enthusiast | Cybersecurity Builder    
 💻 Passionate about AI-driven security, cloud platforms, and building scalable systems.  
 
 ---
