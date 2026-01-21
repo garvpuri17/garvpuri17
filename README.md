@@ -3,7 +3,7 @@
 Computer Engineering @ Texas A&M University (Class of 2027)  
 Focus: backend engineering, security, and applied AI/ML.
 
-I like building systems that are measurable: authentication flows with real risk scoring, services that hold up under load tests, and cloud applications that are actually deployable—not just classroom demos.
+I like building systems that are measurable: authentication flows with real risk scoring, services that hold up under load tests, and cloud applications that are actually deployable, not just classroom demos.
 
 ---
 
